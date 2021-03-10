@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1LvJVWlxzY8R1TE7QV3dK2H_r47T9cspT?usp=sha
 
 # Screenshot : 
 
-![](GameCollage.png)
+![](Collage.png)
 
 
 
